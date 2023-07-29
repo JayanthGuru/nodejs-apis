@@ -1,0 +1,23 @@
+{
+	"name": "user-registration",
+	"version": "1.0.0",
+	"description": "Design a API for user registration, allowing users to sign up with a username and password.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JayanthGuru/node-apis.git#main"
+	},
+	"author": "jayanth",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JayanthGuru/node-apis/issues"
+	},
+	"homepage": "https://github.com/JayanthGuru/node-apis/tree/main#readme",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
